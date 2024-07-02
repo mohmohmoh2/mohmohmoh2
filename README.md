@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Machine Learning
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://medium.com/@mohabdullah1818)
 
 - 💬 Ask me about **Software Testing | Automation Testing | Performance Testing**
 
