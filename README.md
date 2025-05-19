@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed</a></h1>
-<h3 align="center">A passionate Software Testing Engineer </h3>
+<h3 align="center">A passionate Senior Software Testing Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 
-- 🌱 I’m currently Working as a Software Testing Engineer at Nezam
+- 🌱 I’m currently working as a Software Testing Engineer at Nezam
 
 - 🤝 I’m available for freelancing.
 
